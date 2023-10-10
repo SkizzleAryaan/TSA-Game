@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 46c0434ccce7fc94795bd9a1dae427fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2739111766970937679
+    second: T-Rex Spritesheet PNG_0
+  - first:
+      213: -7528792211620317139
+    second: T-Rex Spritesheet PNG_1
+  - first:
+      213: 4670241063846051212
+    second: T-Rex Spritesheet PNG_2
+  - first:
+      213: -587045850126048627
+    second: T-Rex Spritesheet PNG_3
+  - first:
+      213: -43583407817293106
+    second: T-Rex Spritesheet PNG_4
+  - first:
+      213: 799225199958616648
+    second: T-Rex Spritesheet PNG_5
+  - first:
+      213: -8041500675151753668
+    second: T-Rex Spritesheet PNG_6
+  - first:
+      213: 6735683490490956578
+    second: T-Rex Spritesheet PNG_7
+  - first:
+      213: 2738498573738395821
+    second: T-Rex Spritesheet PNG_8
+  - first:
+      213: 7852841376528487919
+    second: T-Rex Spritesheet PNG_9
+  - first:
+      213: -2020476826412191418
+    second: T-Rex Spritesheet PNG_10
+  - first:
+      213: 4761274862875834498
+    second: T-Rex Spritesheet PNG_11
+  - first:
+      213: -9025865069575811189
+    second: T-Rex Spritesheet PNG_12
+  - first:
+      213: -6114866082269051508
+    second: T-Rex Spritesheet PNG_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beca914c58bcf9d0800000000000000
+      internalID: -2739111766970937679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b4ae6f5b548790800000000000000
+      internalID: -7528792211620317139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d7cf9e08700d040800000000000000
+      internalID: 4670241063846051212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ae5cd8e46ad7f0800000000000000
+      internalID: -587045850126048627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec203fa1f19256ff0800000000000000
+      internalID: -43583407817293106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae21bb51b671b00800000000000000
+      internalID: 799225199958616648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e048cddb9d66090800000000000000
+      internalID: -8041500675151753668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b3d2a8274f97d50800000000000000
+      internalID: 6735683490490956578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8479191f9110620800000000000000
+      internalID: 2738498573738395821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5587530a5eafc60800000000000000
+      internalID: 7852841376528487919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641fac40803d5f3e0800000000000000
+      internalID: -2020476826412191418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288f5bfe242731240800000000000000
+      internalID: 4761274862875834498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc3515a8fadb280800000000000000
+      internalID: -9025865069575811189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-Rex Spritesheet PNG_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85c44532b1a32ba0800000000000000
+      internalID: -6114866082269051508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

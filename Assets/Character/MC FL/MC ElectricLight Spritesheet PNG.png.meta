@@ -1,0 +1,1083 @@
+fileFormatVersion: 2
+guid: 9e107eb626b854d44a833ef7c691c0e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5940466472963586878
+    second: MC ElectricLight Spritesheet PNG_0
+  - first:
+      213: 1773837930295650741
+    second: MC ElectricLight Spritesheet PNG_1
+  - first:
+      213: 2010498645979152954
+    second: MC ElectricLight Spritesheet PNG_2
+  - first:
+      213: 753482112062713641
+    second: MC ElectricLight Spritesheet PNG_3
+  - first:
+      213: 2501348249596443817
+    second: MC ElectricLight Spritesheet PNG_4
+  - first:
+      213: 2568347530415220752
+    second: MC ElectricLight Spritesheet PNG_5
+  - first:
+      213: -293723687090718274
+    second: MC ElectricLight Spritesheet PNG_6
+  - first:
+      213: -2822684311522611279
+    second: MC ElectricLight Spritesheet PNG_7
+  - first:
+      213: -448243656490618042
+    second: MC ElectricLight Spritesheet PNG_8
+  - first:
+      213: -6519375096378713316
+    second: MC ElectricLight Spritesheet PNG_9
+  - first:
+      213: -7917474225147222490
+    second: MC ElectricLight Spritesheet PNG_10
+  - first:
+      213: 3329709664067114013
+    second: MC ElectricLight Spritesheet PNG_11
+  - first:
+      213: -5078930950360315770
+    second: MC ElectricLight Spritesheet PNG_12
+  - first:
+      213: 8771580092116373649
+    second: MC ElectricLight Spritesheet PNG_13
+  - first:
+      213: 4212674722652323922
+    second: MC ElectricLight Spritesheet PNG_14
+  - first:
+      213: -8515677983764934428
+    second: MC ElectricLight Spritesheet PNG_15
+  - first:
+      213: 7143436962862077894
+    second: MC ElectricLight Spritesheet PNG_16
+  - first:
+      213: 4908750010920580484
+    second: MC ElectricLight Spritesheet PNG_17
+  - first:
+      213: 3124918227794312206
+    second: MC ElectricLight Spritesheet PNG_18
+  - first:
+      213: -7650123029213492999
+    second: MC ElectricLight Spritesheet PNG_19
+  - first:
+      213: 8079619952587627459
+    second: MC ElectricLight Spritesheet PNG_20
+  - first:
+      213: -5108626486798440587
+    second: MC ElectricLight Spritesheet PNG_21
+  - first:
+      213: 120945772665322411
+    second: MC ElectricLight Spritesheet PNG_22
+  - first:
+      213: 2370321965962653926
+    second: MC ElectricLight Spritesheet PNG_23
+  - first:
+      213: 953184898174550466
+    second: MC ElectricLight Spritesheet PNG_24
+  - first:
+      213: 8189045601612781189
+    second: MC ElectricLight Spritesheet PNG_27
+  - first:
+      213: -4848200417238997791
+    second: MC ElectricLight Spritesheet PNG_28
+  - first:
+      213: -3295605925873450290
+    second: MC ElectricLight Spritesheet PNG_29
+  - first:
+      213: -7663057978755282556
+    second: MC ElectricLight Spritesheet PNG_30
+  - first:
+      213: -325650932877436043
+    second: MC ElectricLight Spritesheet PNG_31
+  - first:
+      213: -2664614225795998405
+    second: MC ElectricLight Spritesheet PNG_32
+  - first:
+      213: 1813746004479378285
+    second: MC ElectricLight Spritesheet PNG_34
+  - first:
+      213: -7762228518234402480
+    second: MC ElectricLight Spritesheet PNG_35
+  - first:
+      213: 5459391387089886975
+    second: MC ElectricLight Spritesheet PNG_36
+  - first:
+      213: -7972052205230976374
+    second: MC ElectricLight Spritesheet PNG_37
+  - first:
+      213: -6129058531704812800
+    second: MC ElectricLight Spritesheet PNG_38
+  - first:
+      213: 282975951253958682
+    second: MC ElectricLight Spritesheet PNG_39
+  - first:
+      213: -8531120193131916967
+    second: MC ElectricLight Spritesheet PNG_40
+  - first:
+      213: -1813344440057511807
+    second: MC ElectricLight Spritesheet PNG_41
+  - first:
+      213: -3721418862992431131
+    second: MC ElectricLight Spritesheet PNG_42
+  - first:
+      213: -8847835638333119084
+    second: MC ElectricLight Spritesheet PNG_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 321
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bbc1188c6c07250800000000000000
+      internalID: 5940466472963586878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 321
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5167684, y: 0.49819228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9e26c0330fd9810800000000000000
+      internalID: 1773837930295650741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49539557, y: 0.49395573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32cdfecdd9b6eb10800000000000000
+      internalID: 2010498645979152954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5056142, y: 0.5061592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92feb122df7e47a00800000000000000
+      internalID: 753482112062713641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 287
+        width: 11
+        height: 20
+      alignment: 9
+      pivot: {x: 0.57657415, y: 0.5061592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acbdb4faf296b220800000000000000
+      internalID: 2501348249596443817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 289
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.506623, y: 0.5068108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a622a87a94a320800000000000000
+      internalID: 2568347530415220752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.50460535, y: 0.50550574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9f6d0ecdb7cebf0800000000000000
+      internalID: -293723687090718274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 286
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4588356, y: 0.5043425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf60aae29fc3d8d0800000000000000
+      internalID: -2822684311522611279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49346974, y: 0.4323928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643fd02f4c487c9f0800000000000000
+      internalID: -448243656490618042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 257
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b91d614e68685a0800000000000000
+      internalID: -6519375096378713316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 257
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e9cb042b7f1290800000000000000
+      internalID: -7917474225147222490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.50653005, y: 0.5012835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d7e34c41853e20800000000000000
+      internalID: 3329709664067114013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6884901c5330489b0800000000000000
+      internalID: -5078930950360315770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1901c75be99eab970800000000000000
+      internalID: 8771580092116373649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25085fd275d667a30800000000000000
+      internalID: 4212674722652323922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e09314edfb32d980800000000000000
+      internalID: -8515677983764934428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4327601, y: 0.48987085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71ac6f116922360800000000000000
+      internalID: 7143436962862077894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 193
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.37312979, y: 0.4941164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485bd1490226f1440800000000000000
+      internalID: 4908750010920580484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 26
+        height: 17
+      alignment: 9
+      pivot: {x: 0.21056424, y: 0.5580247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb2d75290fd5b20800000000000000
+      internalID: 3124918227794312206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 161
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c1b313ad45d590800000000000000
+      internalID: -7650123029213492999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5047195, y: 0.49391443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd42a0a83902070800000000000000
+      internalID: 8079619952587627459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.42489097, y: 0.5030033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772a34e6438a19b0800000000000000
+      internalID: -5108626486798440587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.39381027, y: 0.50728834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab3dc81a8fada100800000000000000
+      internalID: 120945772665322411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.2964044, y: 0.5059231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e07280054315e020800000000000000
+      internalID: 2370321965962653926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 161
+        width: 24
+        height: 17
+      alignment: 9
+      pivot: {x: 0.23273341, y: 0.50720483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c106fc5d946a3d00800000000000000
+      internalID: 953184898174550466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5061859, y: 0.50934017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586da95569555a170800000000000000
+      internalID: 8189045601612781189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.42382577, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4a19a486bb7bcb0800000000000000
+      internalID: -4848200417238997791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 111
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec204ac0fd7a342d0800000000000000
+      internalID: -3295605925873450290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 111
+        width: 12
+        height: 17
+      alignment: 9
+      pivot: {x: 0.46601996, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48981137e5957a590800000000000000
+      internalID: -7663057978755282556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 101
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.36796468, y: 0.68338096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd011b33e0b7bf0800000000000000
+      internalID: -325650932877436043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49999964, y: 0.44346213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1af7ba73650bd0800000000000000
+      internalID: -2664614225795998405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6307c5a168bb2910800000000000000
+      internalID: 1813746004479378285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.46116576, y: 0.47411048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0515b39e946074490800000000000000
+      internalID: -7762228518234402480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 65
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.39598083, y: 0.30444473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed15d9a87a3cb40800000000000000
+      internalID: 5459391387089886975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b48221db531faa0800000000000000
+      internalID: -6129058531704812800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 33
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10787ed0255de300800000000000000
+      internalID: 282975951253958682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d538526f5b9980800000000000000
+      internalID: -8531120193131916967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18041fad6d4b5d6e0800000000000000
+      internalID: -1813344440057511807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e5e2d24dda5cc0800000000000000
+      internalID: -3721418862992431131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC ElectricLight Spritesheet PNG_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ec126d5c263580800000000000000
+      internalID: -8847835638333119084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 4bf5c2da72640ea4f8f5f1c247bbb2dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3991081404187049372
+    second: MC Torch Spritesheet PNG (1)_0
+  - first:
+      213: 2207987663827748136
+    second: MC Torch Spritesheet PNG (1)_1
+  - first:
+      213: -6101233706844790920
+    second: MC Torch Spritesheet PNG (1)_2
+  - first:
+      213: 2613032750450942821
+    second: MC Torch Spritesheet PNG (1)_3
+  - first:
+      213: 2468742610576184257
+    second: MC Torch Spritesheet PNG (1)_4
+  - first:
+      213: 5728033804272699973
+    second: MC Torch Spritesheet PNG (1)_5
+  - first:
+      213: 2707326172717125281
+    second: MC Torch Spritesheet PNG (1)_6
+  - first:
+      213: 2667625896859043895
+    second: MC Torch Spritesheet PNG (1)_7
+  - first:
+      213: -5554221854087281972
+    second: MC Torch Spritesheet PNG (1)_8
+  - first:
+      213: -8930315917738117646
+    second: MC Torch Spritesheet PNG (1)_9
+  - first:
+      213: 4805068964530526083
+    second: MC Torch Spritesheet PNG (1)_10
+  - first:
+      213: 720648841769502317
+    second: MC Torch Spritesheet PNG (1)_11
+  - first:
+      213: -8539189173528825561
+    second: MC Torch Spritesheet PNG (1)_12
+  - first:
+      213: 4335975475237438998
+    second: MC Torch Spritesheet PNG (1)_13
+  - first:
+      213: -8792475135833770459
+    second: MC Torch Spritesheet PNG (1)_14
+  - first:
+      213: -5113016340792374981
+    second: MC Torch Spritesheet PNG (1)_15
+  - first:
+      213: 7368380047148481862
+    second: MC Torch Spritesheet PNG (1)_16
+  - first:
+      213: -7356394046177884331
+    second: MC Torch Spritesheet PNG (1)_17
+  - first:
+      213: 7697053580396213622
+    second: MC Torch Spritesheet PNG (1)_18
+  - first:
+      213: 2982347206291803068
+    second: MC Torch Spritesheet PNG (1)_19
+  - first:
+      213: 7892367892706174801
+    second: MC Torch Spritesheet PNG (1)_20
+  - first:
+      213: -1058411874482254849
+    second: MC Torch Spritesheet PNG (1)_21
+  - first:
+      213: 3204307371021293174
+    second: MC Torch Spritesheet PNG (1)_22
+  - first:
+      213: -7437841066571386262
+    second: MC Torch Spritesheet PNG (1)_23
+  - first:
+      213: 6020678938007645206
+    second: MC Torch Spritesheet PNG (1)_24
+  - first:
+      213: -5846206868612151536
+    second: MC Torch Spritesheet PNG (1)_25
+  - first:
+      213: 6575927137411143458
+    second: MC Torch Spritesheet PNG (1)_26
+  - first:
+      213: -1850182281898532897
+    second: MC Torch Spritesheet PNG (1)_27
+  - first:
+      213: 403305565075804672
+    second: MC Torch Spritesheet PNG (1)_28
+  - first:
+      213: 2153334932693814178
+    second: MC Torch Spritesheet PNG (1)_29
+  - first:
+      213: -3064106340246938202
+    second: MC Torch Spritesheet PNG (1)_30
+  - first:
+      213: -4421851722910658892
+    second: MC Torch Spritesheet PNG (1)_31
+  - first:
+      213: -5795476542498764587
+    second: MC Torch Spritesheet PNG (1)_32
+  - first:
+      213: -2169117519415241565
+    second: MC Torch Spritesheet PNG (1)_33
+  - first:
+      213: 771503005401640030
+    second: MC Torch Spritesheet PNG (1)_34
+  - first:
+      213: 3259259144439189099
+    second: MC Torch Spritesheet PNG (1)_35
+  - first:
+      213: 820890708729185348
+    second: MC Torch Spritesheet PNG (1)_36
+  - first:
+      213: 495304733725584847
+    second: MC Torch Spritesheet PNG (1)_37
+  - first:
+      213: 5534746870763685793
+    second: MC Torch Spritesheet PNG (1)_38
+  - first:
+      213: -8455486644964529294
+    second: MC Torch Spritesheet PNG (1)_39
+  - first:
+      213: -5908678573587832525
+    second: MC Torch Spritesheet PNG (1)_40
+  - first:
+      213: -3670407780689242285
+    second: MC Torch Spritesheet PNG (1)_41
+  - first:
+      213: -4732339678132755678
+    second: MC Torch Spritesheet PNG (1)_42
+  - first:
+      213: -2567382399516365651
+    second: MC Torch Spritesheet PNG (1)_43
+  - first:
+      213: -7738851866343314921
+    second: MC Torch Spritesheet PNG (1)_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46283c9cb94dc98c0800000000000000
+      internalID: -3991081404187049372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825c5e2f41954ae10800000000000000
+      internalID: 2207987663827748136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f50e3f440145ba0800000000000000
+      internalID: -6101233706844790920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563271d217b534420800000000000000
+      internalID: 2613032750450942821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.53091776, y: 0.5600155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39349035cb24220800000000000000
+      internalID: 2468742610576184257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 320
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8a1585601e7f40800000000000000
+      internalID: 5728033804272699973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae0cef5fca529520800000000000000
+      internalID: 2707326172717125281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5231878, y: 0.5600173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7388ae79e9f450520800000000000000
+      internalID: 2667625896859043895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28a67b6a07be2b0800000000000000
+      internalID: -5554221854087281972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 288
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f337dcf4211480800000000000000
+      internalID: -8930315917738117646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879810d3c80fa240800000000000000
+      internalID: 4805068964530526083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c77dad42400a00800000000000000
+      internalID: 720648841769502317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f3f170b4be7980800000000000000
+      internalID: -8539189173528825561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164554c8ba7c2c30800000000000000
+      internalID: 4335975475237438998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 256
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267c20d27adaf580800000000000000
+      internalID: -8792475135833770459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b398d4c5abaea09b0800000000000000
+      internalID: -5113016340792374981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d7c501d9eb14660800000000000000
+      internalID: 7368380047148481862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 29
+        height: 17
+      alignment: 9
+      pivot: {x: 0.14034481, y: 0.4436879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c4c14796d8e990800000000000000
+      internalID: -7356394046177884331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753aac537d61da60800000000000000
+      internalID: 7697053580396213622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbc6e3abfc636920800000000000000
+      internalID: 2982347206291803068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.22335929, y: 0.4741543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157237968c2578d60800000000000000
+      internalID: 7892367892706174801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 28
+        height: 17
+      alignment: 9
+      pivot: {x: 0.19008692, y: 0.47738558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0e630204cf41f0800000000000000
+      internalID: -1058411874482254849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 29
+        height: 17
+      alignment: 9
+      pivot: {x: 0.14206459, y: 0.47092393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d3e8a39cf77c20800000000000000
+      internalID: 3204307371021293174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 192
+        width: 28
+        height: 17
+      alignment: 9
+      pivot: {x: 0.14301136, y: 0.4870776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62333315fa77c890800000000000000
+      internalID: -7437841066571386262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c2f9e589fbd8350800000000000000
+      internalID: 6020678938007645206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0178ce8d3d91edea0800000000000000
+      internalID: -5846206868612151536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271e3604e2624b50800000000000000
+      internalID: 6575927137411143458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf57bd6405d256e0800000000000000
+      internalID: -1850182281898532897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 13
+        height: 31
+      alignment: 9
+      pivot: {x: 0.58545625, y: 0.26066738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002184e4644d89500800000000000000
+      internalID: 403305565075804672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 13
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5824039, y: 0.27252656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab87a166be22ed10800000000000000
+      internalID: 2153334932693814178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.47222748, y: 0.45040607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1f83948b1a75d0800000000000000
+      internalID: -3064106340246938202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 111
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be0676394d62a2c0800000000000000
+      internalID: -4421851722910658892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d880445ac4529fa0800000000000000
+      internalID: -5795476542498764587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 12
+        height: 30
+      alignment: 9
+      pivot: {x: 0.566932, y: 0.69745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a49d2bcb1fb5e1e0800000000000000
+      internalID: -2169117519415241565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6c1455ede4ba00800000000000000
+      internalID: 771503005401640030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ecd3f6ce63b3d20800000000000000
+      internalID: 3259259144439189099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c83510c3646b00800000000000000
+      internalID: 820890708729185348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6845f70dafd600800000000000000
+      internalID: 495304733725584847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7039164fe5fcc40800000000000000
+      internalID: 5534746870763685793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b64db02b318aa80800000000000000
+      internalID: -8455486644964529294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331e5519428200ea0800000000000000
+      internalID: -5908678573587832525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3571033f197101dc0800000000000000
+      internalID: -3670407780689242285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2232960c22a535eb0800000000000000
+      internalID: -4732339678132755678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacac3a6f43de5cd0800000000000000
+      internalID: -2567382399516365651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC Torch Spritesheet PNG (1)_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aec31da331a9490800000000000000
+      internalID: -7738851866343314921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
